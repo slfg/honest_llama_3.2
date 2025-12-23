@@ -29,7 +29,8 @@ HF_NAMES = {
     'llama3_8B': 'meta-llama/Meta-Llama-3-8B',
     'llama3_8B_instruct': 'meta-llama/Meta-Llama-3-8B-Instruct',
     'llama3_70B': 'meta-llama/Meta-Llama-3-70B',
-    'llama3_70B_instruct': 'meta-llama/Meta-Llama-3-70B-Instruct'
+    'llama3_70B_instruct': 'meta-llama/Meta-Llama-3-70B-Instruct',
+    'llama3.2_3B': 'meta-llama/Llama-3.2-3B',
 }
 def main(): 
     parser = argparse.ArgumentParser()
